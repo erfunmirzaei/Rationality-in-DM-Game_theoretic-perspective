@@ -15,14 +15,14 @@ Presentation slides of a talk about what is rationality in decision making from 
   
 ● Decision Theory
 
-  ○ Mathematical Formulation of Rationality
+       ○ Mathematical Formulation of Rationality
   
-  ○ Utility Function
-  
-  ○ Expected Utility Theorem
+       ○ Utility Function
+       
+       ○ Expected Utility Theorem
   
 ● Prospect Theory 
-
-  ○ Loss Aversion 
+      
+       ○ Loss Aversion 
   
-  ○ Risk Attitudes
+       ○ Risk Attitudes
