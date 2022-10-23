@@ -7,11 +7,11 @@ Presentation slides of a talk about what is rationality in decision making from 
 
 ● Game Theory 
 
-  ○ Definition
+      ○ Definition
   
-  ○ Decision Making Modeling
+      ○ Decision Making Modeling
   
-  ○ Assumptions and Challenges
+      ○ Assumptions and Challenges
   
 ● Decision Theory
 
